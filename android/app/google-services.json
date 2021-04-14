@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748691705352",
+    "firebase_url": "https://what-to-watch-a2696.firebaseio.com",
+    "project_id": "what-to-watch-a2696",
+    "storage_bucket": "what-to-watch-a2696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748691705352:android:e82db37ac2a34d3e004bbd",
+        "android_client_info": {
+          "package_name": "sales.leal.whattowatch.what_to_watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748691705352-8v6lccatn5ibblsgie6ulr9fo42tjhr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6xORa8cud_vH8wA5wgS-O7IPwIIsaxbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748691705352-8v6lccatn5ibblsgie6ulr9fo42tjhr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "buttonTitle": "¿Qué debo ver?",
+    "aboutTitle": "Sobre",
+    "aboutDescription": "¿No sabe qué película elegir entre tantas opciones disponibles en su plataforma de streaming favorita? Esta simple app fue hecha para ti. What to Watch hace una sugerencia de película completamente aleatoria con sólo presionar un botón.",
+    "aboutDatabase": "Base de datos utilizada: www.themoviedb.org",
+    "aboutIcon": "\"Icono de Launcher hecho por Freepik from www.flaticon.com\"",
+    "aboutContact": "Contacto del desarrollador: pedrohb88@hotmail.com",
+    "originalTitle": "Título original",
+    "overviewNotAvailable": "Descripción no disponible",
+    "settings": "Configuración",
+    "language": "Idioma"
+}
